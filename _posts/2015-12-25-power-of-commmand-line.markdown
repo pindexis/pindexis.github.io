@@ -4,7 +4,7 @@ title:  "The power of the command-line as a programming environment"
 date:   2015-12-23 23:04:48
 categories: command-line
 ---
-While the programming world is full of sophisticated IDEs and text editors that are easy to use. Lot of people still prefer the command-line as their main programming environment. And that's for a good reason. I think there are a couple of concepts that make the command-line a  powerful development environment:
+While the programming world is full of sophisticated IDEs and text editors that are easy to use. Lot of people including myself still prefer the command-line as their main programming environment. And that's for a good reason. I think there are a couple of concepts that make the command-line a  powerful development environment:
 
 - Composition: This is the heart of UNIX, composing small programs which do one thing well together to form a bigger one, similar to connecting Lego blocks.  
 While there is a learning curve of getting used with different commands, the big advantages of the composition philosophy  are flexibility and consistency. For a person who spend most of his time writing code, compromising a learning curve for flexibility is a rewarding choice. You'll eventually be a winner since you won't have to fight against a typical IDE monster to accomplish a behavior that is not shipped by default. And most importantly, you won't have to learn/install a new environment by language. This is what I mean by consistency, you won't have to learn how to perform a recursive regex search for each IDE you manipulate. A grep is a grep wherever you are.
