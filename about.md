@@ -4,4 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Still working on it, turns out to be much harder than expected
+### Find me
+
+- [LinkedIn](https://www.linkedin.com/in/aminehajyoussef/)
+- [Stack Overflow](https://stackoverflow.com/users/1117720/amine-hajyoussef)
+- [GitHub](https://github.com/pindexis)
+
